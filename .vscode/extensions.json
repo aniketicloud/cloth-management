@@ -1,0 +1,14 @@
+{
+  "recommendations": [
+    "formulahendry.auto-close-tag",
+    "aaron-bond.better-comments",
+    "dbaeumer.vscode-eslint",
+    "vinliao.fast-arrow",
+    "eamodio.gitlens",
+    "ms-playwright.playwright",
+    "esbenp.prettier-vscode",
+    "sonarsource.sonarlint-vscode",
+    "bradlc.vscode-tailwindcss",
+    "redhat.vscode-yaml"
+  ]
+}
